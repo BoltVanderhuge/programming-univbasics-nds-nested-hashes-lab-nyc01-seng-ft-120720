@@ -7,6 +7,7 @@ KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
+<<<<<<< HEAD
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
   [DON_G,
@@ -15,6 +16,9 @@ def assembled_aoh
   KATE_G,
   BRUCE_G,
   ]
+=======
+  
+>>>>>>> 9cf1b7ef200ce19dea201ce8cf8e5a10f8dbc0f0
 end
 
 def literal_aoh
